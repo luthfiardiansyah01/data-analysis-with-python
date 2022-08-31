@@ -4,3 +4,5 @@ All of source codes from **freecodecamp** course
 https://replit.com/@LuthfiArdiansy2/boilerplate-mean-variance-standard-deviation-calculator#mean_var_std.py
 2. Demographic Data Analyzer _(cannot running a project but success to submit)_
 https://replit.com/@LuthfiArdiansy2/boilerplate-demographic-data-analyzer#test_module.py
+3. Medical Data Visualizer
+https://replit.com/@LuthfiArdiansy2/boilerplate-medical-data-visualizer#medical_data_visualizer.py
