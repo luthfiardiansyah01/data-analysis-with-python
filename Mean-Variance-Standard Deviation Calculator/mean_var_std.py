@@ -30,5 +30,4 @@ def calculate(list):
     'standard deviation': [std_columns, std_rows, ls.std()],
     'max': [max_columns, max_rows, ls.max()],
     'min': [min_columns, min_rows, ls.min()],
-    'sum': [sum_columns, sum_rows, ls.sum()]
-    }
+    'sum': [sum_columns, sum_rows, ls.sum()]}
